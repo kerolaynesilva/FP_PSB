@@ -36,7 +36,7 @@ Vocês devem utilizar as seguintes bibliotecas e programas exemplos:
 
 
 
-6-Cálcule a frequência mediana de cada espectro de amplitude do item 5.
+6-Calcule a frequência mediana de cada espectro de amplitude do item 5.
 
 
 
